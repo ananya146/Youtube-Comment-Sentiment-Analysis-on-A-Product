@@ -1,0 +1,2 @@
+# Youtube-Comment-Sentiment-Analysis-on-A-Product
+This project implements a product sentiment analysis model using a combination of Support Vector Machine (SVM) and Random Forest classifiers in a stacking ensemble. The model is trained on a dataset of product-related YouTube comments, preprocessed using TF-IDF vectorization. The stacking model is then saved and can be loaded for predicting sentiment (positive or negative) of new comments. The project includes scripts for training the model, saving and loading the model, and making predictions.
